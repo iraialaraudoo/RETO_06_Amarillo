@@ -1,0 +1,22 @@
+name: quieor_env
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.12
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - scipy
+  - scikit-learn
+  - yellowbrick
+  - nltk
+  - requests
+  - beautifulsoup4
+  - imbalanced-learn
+  - pip
+  - pip:
+      - wordcloud
+      - holidays
+      - elasticsearch
