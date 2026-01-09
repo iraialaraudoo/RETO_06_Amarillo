@@ -1,4 +1,4 @@
-name: quieor_env
+name: R6_EquipoAmarillo
 channels:
   - conda-forge
   - defaults
