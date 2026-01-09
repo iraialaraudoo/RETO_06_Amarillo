@@ -19,7 +19,7 @@ Se busca garantizar trazabilidad, modularidad y reproducibilidad en todo el fluj
 ------------------------------------------------------------------
 
 ## ESTRUCTURA DEL PROYECTO
-
+```text
 RETO_06_Amarillo/
 │
 ├── .vscode/
@@ -79,6 +79,8 @@ Esto centraliza las credenciales y evita exponerlas directamente en los notebook
 
 
 # Instrucciones para instalar el entorno (R6_Amarillo):
+Version pyhton utilizada : 3.12
+
 1. Requisitos previos
 
 Antes de crear el entorno, asegúrate de tener instalados los siguientes programas:
