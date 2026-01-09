@@ -103,11 +103,11 @@ Ejecuta el siguiente comando para crear el entorno:
 3. Activar el entorno
 
 Para empezar a usar el entorno, ejecuta:
-    `conda activate reto06_Amarillo`
+    `conda activate R6_EquipoAmarillo`
 
 4. Crear el kernel para Jupyter / VS Code
 Para poder usar el entorno dentro de Jupyter Notebook o VS Code, ejecuta:
-    `python -m ipykernel install --user --name reto06_Amarillo --display-name "Python (reto06_Amarillo)"`
+    `python -m ipykernel install --user --name R6_EquipoAmarillo --display-name "Python (R6_EquipoAmarillo)"`
 (--name define el nombre interno del kernel
 
 --display-name define cómo aparecerá en Jupyter o VS Code)
