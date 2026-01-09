@@ -56,7 +56,7 @@ RETO_06_Amarillo/
 ├── README.md
 ├── .gitignore
 └── desktop.ini
-
+```
 ------------------------------------------------------------------
 
 ## Organizacion y Flujo de datos:
